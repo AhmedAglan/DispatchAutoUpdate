@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <version>2.8.5.9</version>
+    <url>http://sd.mpsegypt.com/AutoUpdateMPS/V2859/Dispatch.zip</url>
+    <changelog>http://sd.mpsegypt.com/AutoUpdateMPS/V2859/index.html</changelog>
+    <mandatory mode="1">true</mandatory>
+</item>
